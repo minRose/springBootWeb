@@ -1,0 +1,69 @@
+2018-12-21 15:13:06.062 ERROR 28320 --- [restartedMain] o.s.b.c.l.LoggingApplicationListener     : Cannot set level 'DEBUGE' for 'com.favorites'
+2018-12-21 15:13:06.066  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : Starting SpringBootWebApplication on boccfc-PC with PID 28320 (D:\workspace\testing\springboot\springBootWeb\target\classes started by boccfc in D:\workspace\testing\springboot\springBootWeb)
+2018-12-21 15:13:06.066  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : No active profile set, falling back to default profiles: default
+2018-12-21 15:13:06.207  INFO 28320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-12-21 15:13:06.208  INFO 28320 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-12-21 15:13:06.209  INFO 28320 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-21 15:13:06.221  INFO 28320 --- [restartedMain] o.a.c.c.C.[Tomcat-12].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2018-12-21 15:13:06.222  INFO 28320 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 154 ms
+2018-12-21 15:13:06.253  INFO 28320 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-21 15:13:06.271  INFO 28320 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2018-12-21 15:13:06.293  INFO 28320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-21 15:13:06.294  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : Started SpringBootWebApplication in 0.256 seconds (JVM running for 2044.565)
+2018-12-21 15:13:06.294  INFO 28320 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2018-12-21 15:13:24.771  INFO 28320 --- [Thread-118] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-21 15:13:24.964 ERROR 28320 --- [restartedMain] o.s.b.c.l.LoggingApplicationListener     : Cannot set level 'DEBUGE' for 'com.favorites'
+2018-12-21 15:13:24.967  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : Starting SpringBootWebApplication on boccfc-PC with PID 28320 (D:\workspace\testing\springboot\springBootWeb\target\classes started by boccfc in D:\workspace\testing\springboot\springBootWeb)
+2018-12-21 15:13:24.967  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : No active profile set, falling back to default profiles: default
+2018-12-21 15:13:25.097  INFO 28320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-12-21 15:13:25.097  INFO 28320 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-12-21 15:13:25.098  INFO 28320 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-21 15:13:25.112  INFO 28320 --- [restartedMain] o.a.c.c.C.[Tomcat-12].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2018-12-21 15:13:25.112  INFO 28320 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 144 ms
+2018-12-21 15:13:25.140  INFO 28320 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-21 15:13:25.159  INFO 28320 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2018-12-21 15:13:25.187  INFO 28320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-21 15:13:25.188  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : Started SpringBootWebApplication in 0.24 seconds (JVM running for 2063.459)
+2018-12-21 15:13:25.188  INFO 28320 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2018-12-21 15:13:45.655  INFO 28320 --- [Thread-124] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-21 15:13:45.851 ERROR 28320 --- [restartedMain] o.s.b.c.l.LoggingApplicationListener     : Cannot set level 'DEBUGE' for 'com.favorites'
+2018-12-21 15:13:45.855  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : Starting SpringBootWebApplication on boccfc-PC with PID 28320 (D:\workspace\testing\springboot\springBootWeb\target\classes started by boccfc in D:\workspace\testing\springboot\springBootWeb)
+2018-12-21 15:13:45.856  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : No active profile set, falling back to default profiles: default
+2018-12-21 15:13:45.986  INFO 28320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-12-21 15:13:45.987  INFO 28320 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-12-21 15:13:45.987  INFO 28320 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-21 15:13:46.001  INFO 28320 --- [restartedMain] o.a.c.c.C.[Tomcat-12].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2018-12-21 15:13:46.001  INFO 28320 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 143 ms
+2018-12-21 15:13:46.038  INFO 28320 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-21 15:13:46.061  INFO 28320 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2018-12-21 15:13:46.087  INFO 28320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-21 15:13:46.088  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : Started SpringBootWebApplication in 0.254 seconds (JVM running for 2084.359)
+2018-12-21 15:13:46.089  INFO 28320 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2018-12-21 15:16:25.189  INFO 28320 --- [Thread-130] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-21 15:16:27.223 ERROR 28320 --- [restartedMain] o.s.b.c.l.LoggingApplicationListener     : Cannot set level 'DEBUGE' for 'com.favorites'
+2018-12-21 15:16:27.227  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : Starting SpringBootWebApplication on boccfc-PC with PID 28320 (D:\workspace\testing\springboot\springBootWeb\target\classes started by boccfc in D:\workspace\testing\springboot\springBootWeb)
+2018-12-21 15:16:27.228  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : No active profile set, falling back to default profiles: default
+2018-12-21 15:16:27.358  INFO 28320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-12-21 15:16:27.359  INFO 28320 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-12-21 15:16:27.359  INFO 28320 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-21 15:16:27.373  INFO 28320 --- [restartedMain] o.a.c.c.C.[Tomcat-12].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2018-12-21 15:16:27.373  INFO 28320 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 143 ms
+2018-12-21 15:16:27.400  INFO 28320 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-21 15:16:27.421  INFO 28320 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2018-12-21 15:16:27.446  INFO 28320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-21 15:16:27.447  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : Started SpringBootWebApplication in 0.238 seconds (JVM running for 2245.717)
+2018-12-21 15:16:27.448  INFO 28320 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2018-12-21 15:18:25.119  INFO 28320 --- [Thread-142] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2018-12-21 15:18:25.312 ERROR 28320 --- [restartedMain] o.s.b.c.l.LoggingApplicationListener     : Cannot set level 'DEBUGE' for 'com.favorites'
+2018-12-21 15:18:25.316  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : Starting SpringBootWebApplication on boccfc-PC with PID 28320 (D:\workspace\testing\springboot\springBootWeb\target\classes started by boccfc in D:\workspace\testing\springboot\springBootWeb)
+2018-12-21 15:18:25.316  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : No active profile set, falling back to default profiles: default
+2018-12-21 15:18:25.458  INFO 28320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2018-12-21 15:18:25.459  INFO 28320 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-12-21 15:18:25.459  INFO 28320 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.13
+2018-12-21 15:18:25.472  INFO 28320 --- [restartedMain] o.a.c.c.C.[Tomcat-12].[localhost].[/]    : Initializing Spring embedded WebApplicationContext
+2018-12-21 15:18:25.472  INFO 28320 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 155 ms
+2018-12-21 15:18:25.504  INFO 28320 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2018-12-21 15:18:25.525  INFO 28320 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2018-12-21 15:18:25.552  INFO 28320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2018-12-21 15:18:25.552  INFO 28320 --- [restartedMain] c.e.myproject.SpringBootWebApplication   : Started SpringBootWebApplication in 0.257 seconds (JVM running for 2363.821)
+2018-12-21 15:18:25.554  INFO 28320 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
